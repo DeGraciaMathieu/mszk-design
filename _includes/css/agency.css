@@ -359,7 +359,7 @@ section h2.section-heading {
     font-size: 40px;
 }
 
-section p {
+section p.secret {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 10px;
     font-style: italic;
