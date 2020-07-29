@@ -359,6 +359,14 @@ section h2.section-heading {
     font-size: 40px;
 }
 
+section p {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    opacity: 0.2;
+    margin-top: -18px;
+}
+ 
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
