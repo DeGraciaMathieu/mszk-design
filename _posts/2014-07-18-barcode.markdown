@@ -1,0 +1,14 @@
+---
+title: Barcode
+subtitle: Fond d'écran minimaliste
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: barcode.jpg
+thumbnail: barcode-thumbnail.jpg
+alt: image-alt
+project-date: 28 aout
+client: Personnel
+category: Graphic Design 
+description: Un fond d'écran épuré et minimaliste mais qui ne tombe pas dans la froideur typique des illustrations de ce genre. Quelque chose de simple, visuel, mais toujours hyperactif. Projet personnel.
+---
