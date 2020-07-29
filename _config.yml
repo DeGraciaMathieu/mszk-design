@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: MSZK
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: MSZK est un studio multi-dimensionnel basé à Nantes. Du graphic design au branding en passant par le marketing digital, ce one-man-studio écoute, discute, et crée.
 
 # Team names, titles and social links
 people:
@@ -13,18 +13,18 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/MSZKdesigns
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mszkwz
 
 - name: Mathiey
   pic: 2
   position: Lead Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/DeGraciaMathieu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mathieu-de-gracia-64984b12a
     - title: github
       url: https://github.com/DeGraciaMathieu
 
