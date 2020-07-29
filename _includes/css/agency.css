@@ -62,7 +62,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #ededed;
 }
 
 .bg-darkest-gray {
@@ -234,6 +234,25 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-brand>img {
+    margin-top: -15px;
+}
+
+@media(max-width:768px) {
+    .navbar-brand>img {
+        height: 100px;
+    }
+    #bs-example-navbar-collapse-1 {
+        margin-top: 44px;
+    }
+}
+
+@media(min-width:992px) {
+    .navbar-brand>img {
+        height: 136px;
+    }
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -300,6 +319,12 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+@media(max-width:768px) {
+    header .intro-text .intro-heading {
+        font-size: 40px;
+    }
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -325,7 +350,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 75px 0;
 }
 
 section h2.section-heading {
@@ -341,12 +366,6 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
-}
-
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
 }
 
 .service-heading {
@@ -407,7 +426,6 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -639,7 +657,8 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid #dfdfdf;
+    height: 220px;
 }
 
 .team-member h4 {

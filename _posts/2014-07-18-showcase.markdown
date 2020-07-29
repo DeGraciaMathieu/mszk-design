@@ -1,0 +1,14 @@
+---
+title: Showcase
+subtitle: Mettons-nous à table
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: showcase.png
+thumbnail: showcase-thumbnail.jpg
+alt: image-alt
+project-date: 28 aout
+client: Personnel
+category: Graphic Design 
+description: Le vintage, le cliché, la précision d'un sticker promotionnel, l'histoire d'un vieux patch cousu sur une veste trouvée dans un vide-grenier, les couleurs flashy, les couleurs à la gloire passée. J'aime les visuels qui soulèvent des questions.
+---
